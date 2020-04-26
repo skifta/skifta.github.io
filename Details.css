@@ -144,6 +144,11 @@
     margin: 0 0 0 -28px;
 }
 
+#smallImagesFlexRow {
+    width: 560px;
+    height: 130px;
+}
+
 #smallImagesCarousel {
     border: 5px solid gray;
 }
