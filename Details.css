@@ -138,20 +138,15 @@
     margin: 50px 0 0 -20px;
 }
 
-#highlightCarousel {
-    width: 560px;
-    height: 130px;
-    margin: 0 0 0 -28px;
-}
-
 #carouselImages {
     width: 560px;
     height: 124px;
-    margin: 0 0 0 -40px;
+    margin: 0 0 0 -28px;
 }
 
 #smallImagesCarousel {
     border: 5px solid gray;
+    margin: 0 0 0 -28px;
 }
 
 .carousel-control-prev {
