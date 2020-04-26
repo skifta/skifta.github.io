@@ -141,12 +141,11 @@
 #carouselImages {
     width: 560px;
     height: 124px;
-    margin: 0 0 0 -28px;
+    margin: 0 0 0 -50px;
 }
 
 #smallImagesCarousel {
     border: 5px solid gray;
-    margin: 0 20px 0 0;
 }
 
 .carousel-control-prev {
