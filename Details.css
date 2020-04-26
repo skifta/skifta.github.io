@@ -138,6 +138,10 @@
     margin: 50px 0 0 -20px;
 }
 
+.p-2 {
+    margin: 0 0 0 -28px;
+}
+
 #carouselImages {
     width: 560px;
     height: 124px;
