@@ -152,7 +152,7 @@
 #smallImagesFlexRow {
     width: 560px;
     height: 130px;
-    padding-left: -20px;
+    margin: 0 0 0 -28px;
 }
 
 .carousel-control-prev {
