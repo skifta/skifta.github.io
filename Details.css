@@ -141,7 +141,7 @@
 #carouselImages {
     width: 560px;
     height: 124px;
-    margin: 0 0 0 -28px;
+    margin: 0 0 0 0;
 }
 
 #smallImagesFlexRow {
