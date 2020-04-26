@@ -146,6 +146,7 @@
 
 #smallImagesCarousel {
     border: 5px solid gray;
+    margin: 0 20px 0 0;
 }
 
 .carousel-control-prev {
