@@ -148,10 +148,6 @@
     border: 5px solid gray;
 }
 
-#smallCarouselActive {
-    margin: 0 0 0 -28px;
-}
-
 .carousel-control-prev {
     margin: 50px 0 0 -15px;
     background: #558000;
