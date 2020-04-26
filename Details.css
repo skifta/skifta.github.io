@@ -141,6 +141,7 @@
 #highlightCarousel {
     width: 560px;
     height: 130px;
+    margin: 0 0 0 -28px;
 }
 
 #carouselImages {
