@@ -138,6 +138,10 @@
     margin: 50px 0 0 -20px;
 }
 
+#smallCarouselActive {
+    margin: 0 0 0 -30px;
+}
+
 #carouselImages {
     width: 560px;
     height: 124px;
