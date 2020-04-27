@@ -506,15 +506,13 @@ blockquote {
 
 .footer {
     background: #404040;
-    margin: 70px 0 0 0;
-    border-top: 5px solid lightgray;
+    margin: -25px 0 0 0;
 }
 
 .lastLink {
     color: lightgray;
     font-weight: normal;
     font-size: 14px;
-    padding-bottom: 0;
 }
 
 .lastLink:hover {
@@ -591,6 +589,11 @@ blockquote {
 .lastParagraph {
     color: lightgray;
     font-size: 14px;
+    margin: 20px 0 0 0;
+}
+
+#icons2 {
+    color: lightgray;
     margin: 20px 0 0 0;
 }
 
