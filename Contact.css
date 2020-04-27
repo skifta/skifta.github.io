@@ -46,6 +46,10 @@
     margin: 0 10px 0 0;
 }
 
+#navbarUl {
+    margin: 0 0 0 505px;
+}
+
 .navbarBrandSpan {
     font: 24pt;
     text-transform: uppercase;
@@ -143,7 +147,7 @@ hr {
     margin: 50px 0 0 0;
 }
 
-.body2 {
+.footer {
     background: #404040;
     margin: 0 0 0 0;
 }

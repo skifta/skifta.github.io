@@ -44,6 +44,10 @@
     margin: 0 10px 0 0;
 }
 
+#navbarUl {
+    margin: 0 0 0 505px;
+}
+
 .navbarBrandSpan {
     font: 24pt;
     text-transform: uppercase;
@@ -392,7 +396,7 @@ iframe {
     opacity: 1;
 }
 
-.body2 {
+.footer {
     background: #404040;
     margin: 70px 0 0 0;
     border-top: 5px solid lightgray;
