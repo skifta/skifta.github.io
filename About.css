@@ -144,7 +144,7 @@
 
 .body1 {
     width: 1060px;
-    height: 1425px;
+    height: 1370px;
     background: white;
     margin: 50px 0 0 0;
 }
@@ -438,7 +438,7 @@ hr {
 
 .footer {
     background: #404040;
-    margin: 0 0 0 0;
+    margin: -25px 0 0 0;
 }
 
 .lastLink {
